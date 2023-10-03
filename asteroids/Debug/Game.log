@@ -1,0 +1,17 @@
+﻿  Actor.cpp
+  Asteroid.cpp
+  CircleComponent.cpp
+  Component.cpp
+  Game.cpp
+  InputComponent.cpp
+  Laser.cpp
+  Main.cpp
+  Math.cpp
+  MoveComponent.cpp
+  Random.cpp
+  Ship.cpp
+  SpriteComponent.cpp
+  コードを生成中...
+  Game.vcxproj -> C:\Users\cre\Desktop\asteroids\Debug\Game.exe
+  C:\SDL2-2.26.5\lib\x86\SDL2.dll
+  1 個のファイルをコピーしました
